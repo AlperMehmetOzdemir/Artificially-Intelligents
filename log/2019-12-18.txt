@@ -1,0 +1,10 @@
+2019-12-18 04:13:22.412782: Log file is generated!
+2019-12-18 04:13:25.143365: 	Browser is opened and request is sent to the URL
+2019-12-18 04:13:25.143365: 	Page is loading
+2019-12-18 04:13:30.059540: 	Page is loaded
+2019-12-18 04:13:30.647205: 	Reveal Puzzle is clicked!
+2019-12-18 04:13:31.395773: 	Browser is closed and content of the page is returned
+2019-12-18 04:13:31.459735: 	Across clues are parsed from the page content
+2019-12-18 04:13:31.459735: 	Down clues are parsed from the page content
+2019-12-18 04:13:31.460735: 	Puzzle cells are parsed from the page content
+2019-12-18 04:13:31.479724: 	Puzzle data is written to the JSON file
