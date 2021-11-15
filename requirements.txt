@@ -5,7 +5,7 @@ google==2.0.3
 idna==2.8
 nltk==3.4.5
 numpy==1.17.4
-pip==19.0.3
+pip==21.1
 requests==2.22.0
 selenium==3.141.0
 setuptools==40.8.0
